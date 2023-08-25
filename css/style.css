@@ -11,8 +11,8 @@ header{
     display: flex;
     flex-direction: column;
     padding: 20px;
-    
-
+    max-width: 900px;
+    margin: auto;
 }
 .header img{
     width: 250px;
